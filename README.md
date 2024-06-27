@@ -1,5 +1,6 @@
-## Java developer with managment knowleges👋
-### Stack:
+## Java developer👋
+### Russia, Vladimir
+#### Stack:
 + Java 21
 + Gradle
 + JUnit
