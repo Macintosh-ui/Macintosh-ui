@@ -1,5 +1,14 @@
-## Hi there 👋
-
+## Java developer with managment knowleges👋
+### Stack:
++ Java 21
++ Gradle
++ JUnit
++ Lombok
++ PostgreSQL
++ Git
++ Picocli
++ OOP
+  
 <!--
 **Macintosh-ui/Macintosh-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
