@@ -9,7 +9,10 @@
 + Git
 + Picocli
 + OOP
-  
+***
+### Social Media:
+- Telegram: @macintosh_rv
+- VK: @holodnoe_zarevo
 <!--
 **Macintosh-ui/Macintosh-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
